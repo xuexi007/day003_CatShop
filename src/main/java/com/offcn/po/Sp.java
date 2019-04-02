@@ -1,5 +1,8 @@
 package com.offcn.po;
 
+/**
+ * 增加注释
+ */
 public class Sp {
     private String name;
     private Double price;
